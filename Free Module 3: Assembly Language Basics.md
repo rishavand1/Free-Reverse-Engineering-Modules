@@ -103,7 +103,7 @@ In this lab, we will open a binary in **x64dbg** to track how these basic assemb
 
 ### Prerequisites
 
-* **x64dbg** installed.
+* **x64dbg** , **Ghidra** installed.
 * Any basic native executable compiled from C/C++ or assembly.
 
 ---
@@ -112,7 +112,7 @@ In this lab, we will open a binary in **x64dbg** to track how these basic assemb
 
 #### Step 1: Locating Data Movements
 
-1. Load your executable into **x64dbg**.
+1. Load your executable into **x64dbg** or **Ghidra**
 2. Scroll through the Disassembly window until you find an instruction starting with `MOV`.
 3. Highlight the instruction line. Note the register names mentioned in the operands.
 4. Press **F8** to execute that single `MOV` line and watch the target register turn **Red** in the Registers pane, displaying its brand new value.
