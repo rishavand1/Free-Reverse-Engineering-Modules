@@ -1,9 +1,3 @@
-Here is a professional, beautifully structured `README.md` file tailored specifically for your **[Free-Reverse-Engineering-Modules](https://github.com/rishavand1/Free-Reverse-Engineering-Modules)** repository.
-
-It organizes your 4 modules into a clear, step-by-step learning path, integrates your practical `pass.exe` blueprint, and lays out your exact static analysis methodology so students know exactly how to do the practicals.
-
-### `README.md`
-
 
 # 🚀 Free Reverse Engineering Modules
 
