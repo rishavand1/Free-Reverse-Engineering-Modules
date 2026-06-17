@@ -4,7 +4,7 @@ It organizes your 4 modules into a clear, step-by-step learning path, integrates
 
 ### `README.md`
 
-```markdown
+
 # 🚀 Free Reverse Engineering Modules
 
 Welcome to the ultimate beginner's companion guide for reverse engineering. This repository contains a structured, 4-module curriculum designed to take you from foundational computer architecture concepts to analyzing your first compiled program using modern reverse engineering tools.
@@ -29,7 +29,6 @@ To get the most out of this course, follow the modules sequentially. Each module
 * **[Module 4: Your First Crackme](https://github.com/rishavand1/Free-Reverse-Engineering-Modules/blob/main/Free%20Module%204:%20Your%20First%20Crackme.md)**
     * *What you'll learn:* Putting everything together to analyze a real binary, reverse-engineer its internal logic, and extract hidden credentials.
 
----
 
 ## 🛠️ The Practical Blueprint: `pass.exe`
 
