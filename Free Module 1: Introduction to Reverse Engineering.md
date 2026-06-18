@@ -1,7 +1,7 @@
 # Free Module 1: Introduction to Reverse Engineering
 
 ## 📌 Topics
-* **Reverse Engineering kya hai?**
+* **What is Reverse Engineering ?**
 * **Use Cases**
 * **Legal & Ethical Considerations**
 * **RE Workflow**
